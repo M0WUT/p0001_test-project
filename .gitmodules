@@ -16,3 +16,8 @@
 	url = https://github.com/M0WUT/p0001-004_asdgf.git
 [submodule "hardware\\P0001-004_Asdgf"]
 	branch = main
+[submodule "hardware/P0001-005_Y"]
+	path = hardware/P0001-005_Y
+	url = https://github.com/M0WUT/p0001-005_y.git
+[submodule "hardware\\P0001-005_Y"]
+	branch = main
