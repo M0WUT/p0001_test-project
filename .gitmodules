@@ -1,0 +1,3 @@
+[submodule "hardware/P0001-001_TestBoard"]
+	path = hardware/P0001-001_TestBoard
+	url = https://github.com/M0WUT/p0001-001_test-board.git
