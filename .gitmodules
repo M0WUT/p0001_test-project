@@ -1,3 +1,8 @@
 [submodule "hardware/P0001-001_TestBoard"]
 	path = hardware/P0001-001_TestBoard
 	url = https://github.com/M0WUT/p0001-001_test-board.git
+[submodule "hardware/P0001-002_Test2"]
+	path = hardware/P0001-002_Test2
+	url = https://github.com/M0WUT/p0001-002_test2.git
+[submodule "hardware\\P0001-002_Test2"]
+	branch = main
