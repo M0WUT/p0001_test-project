@@ -1,23 +1,3 @@
 [submodule "hardware/P0001-001_TestBoard"]
 	path = hardware/P0001-001_TestBoard
 	url = https://github.com/M0WUT/p0001-001_test-board.git
-[submodule "hardware/P0001-002_Test2"]
-	path = hardware/P0001-002_Test2
-	url = https://github.com/M0WUT/p0001-002_test2.git
-[submodule "hardware\\P0001-002_Test2"]
-	branch = main
-[submodule "hardware/P0001-003_Ghjf"]
-	path = hardware/P0001-003_Ghjf
-	url = https://github.com/M0WUT/p0001-003_ghjf.git
-[submodule "hardware\\P0001-003_Ghjf"]
-	branch = main
-[submodule "hardware/P0001-004_Asdgf"]
-	path = hardware/P0001-004_Asdgf
-	url = https://github.com/M0WUT/p0001-004_asdgf.git
-[submodule "hardware\\P0001-004_Asdgf"]
-	branch = main
-[submodule "hardware/P0001-005_Y"]
-	path = hardware/P0001-005_Y
-	url = https://github.com/M0WUT/p0001-005_y.git
-[submodule "hardware\\P0001-005_Y"]
-	branch = main
