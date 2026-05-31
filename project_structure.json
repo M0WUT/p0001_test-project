@@ -11,6 +11,13 @@
                 "url": "https://github.com/m0wut/p0001-pcb-001_aa",
                 "github_pages_url": "https://m0wut.github.io/p0001-pcb-001_aa"
             }
+        },
+        "fw": {
+            "P0001-FW-001": {
+                "name": "Test Firmware",
+                "description": "dasvf",
+                "url": "https://github.com/m0wut/p0001-fw-001_test-firmware"
+            }
         }
     }
 }
