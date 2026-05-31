@@ -1,0 +1,5 @@
+[submodule "pcb/P0001-PCB-001_Aa"]
+	path = pcb/P0001-PCB-001_Aa
+	url = https://github.com/M0WUT/p0001-pcb-001_aa.git
+[submodule "pcb\\P0001-PCB-001_Aa"]
+	branch = main
