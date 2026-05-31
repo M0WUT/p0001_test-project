@@ -4,6 +4,10 @@ Project used for testing during software development. No actual data is stored h
 | Reference | Name | Description | URL |
 | --- | --- | --- | --- |
 | P0001-FW-001 | Test Firmware | dasvf | https://github.com/m0wut/p0001-fw-001_test-firmware |
+## Asset Librarys
+| Reference | Name | Description | URL |
+| --- | --- | --- | --- |
+| P0001-LIB-001 | sss | yy | https://github.com/m0wut/p0001-lib-001_sss |
 ## KiCad PCB Projects
 | Reference | Name | Description | Repo URL | Github Pages Status | Image | Github Pages URL |
 | ---| ---| ---| ---| ---| ---| ---|

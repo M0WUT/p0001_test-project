@@ -18,6 +18,13 @@
                 "description": "dasvf",
                 "url": "https://github.com/m0wut/p0001-fw-001_test-firmware"
             }
+        },
+        "lib": {
+            "P0001-LIB-001": {
+                "name": "sss",
+                "description": "yy",
+                "url": "https://github.com/m0wut/p0001-lib-001_sss"
+            }
         }
     }
 }

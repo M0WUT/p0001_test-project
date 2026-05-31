@@ -8,3 +8,8 @@
 	url = https://github.com/M0WUT/p0001-fw-001_test-firmware.git
 [submodule "firmware\\P0001-FW-001_TestFirmware"]
 	branch = main
+[submodule "libraries/P0001-LIB-001_Sss"]
+	path = libraries/P0001-LIB-001_Sss
+	url = https://github.com/M0WUT/p0001-lib-001_sss.git
+[submodule "libraries\\P0001-LIB-001_Sss"]
+	branch = main
