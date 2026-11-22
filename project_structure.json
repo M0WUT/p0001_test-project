@@ -25,6 +25,13 @@
                 "description": "yy",
                 "url": "https://github.com/m0wut/p0001-lib-001_sss"
             }
+        },
+        "sws": {
+            "P0001-SWS-001": {
+                "name": "ggg",
+                "description": "hjj",
+                "url": "https://github.com/m0wut/p0001_test-project/tree/main/software_snippet/P0001-SWS-001_Ggg"
+            }
         }
     }
 }
